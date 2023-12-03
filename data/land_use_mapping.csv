@@ -1,0 +1,27 @@
+LU1,LU1_Desc
+U120,Forestry
+U111,Agriculture (excluding fallow land and kitchen gardens)
+U312,Road transport
+U420,Semi-natural and natural areas not in use
+U319,"Electricity, gas and thermal power distribution"
+U330,Construction
+U370,Residential
+U415,Other abandoned areas
+U210,Energy production
+U112,Fallow land
+U361,"Amenities, museum, leisure (e.g. parks, botanical gardens)"
+U113,Kitchen gardens
+U311,Railway transport
+U342,"Financial, professional and information services"
+U318,Protection infrastructures
+U341,Commerce
+U140,Mining and quarrying
+U362,Sport
+U350,Community services
+U321,Water supply and treatment
+U150,Other primary production
+U414,Abandoned residential areas
+U317,Logistics and storage
+U411,Abandoned industrial areas
+U313,Water transport
+U413,Abandoned transport areas
